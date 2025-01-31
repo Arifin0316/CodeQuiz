@@ -34,11 +34,11 @@ const adminMenuItems = [
     subMenu: [
       {
         name: 'Create Quiz',
-        href: '/dashboard/quizzes/create'
+        href: '/dashboard/quiz/addQuiz'
       },
       {
         name: 'Quiz List',
-        href: '/dashboard/quizzes'
+        href: '/dashboard/quiz'
       }
     ]
   },
